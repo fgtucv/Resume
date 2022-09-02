@@ -1,0 +1,163 @@
+body{
+    font-family: 'Montserrat';
+font-style: normal;
+}
+
+.aboutme-title{
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 1.21;
+    color: #000000;
+}
+
+.aboutme-name{
+    font-weight: 700;
+font-size: 45px;
+line-height: 1.22;
+color: #000000;
+}
+
+.aboutme-text{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1.71; 
+    color: #595959;  
+}
+
+.projects-title{
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 1.22;
+    color: #000000;
+    
+    
+}
+
+.projects-item{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1.71;
+    color: #595959;
+}
+
+.work-title{
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 1.22;
+    color: #000000;
+}
+
+.work-position{
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 1.25;   
+    color: #000000;
+}
+
+.work-date{
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 1.25;
+    color: #A8A8A8; 
+}
+
+.work-text{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1.71;
+    color: #595959;
+}
+
+.education-title{
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 1.22;
+    color: #000000;  
+}
+
+.education-postion{
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 1.25;
+    color: #FB6D3A;  
+}
+
+.education-management{
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 1.21;
+    color: #000000;    
+}
+
+.education-date{
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 1.25;
+    color: #A8A8A8;   
+}
+
+.aside-section{
+    background: #1E2939;
+}
+
+.aside-item{
+    background: url(photo.jpg);
+}
+
+.contacts-title{
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 1.22;      
+    color: #FFFFFF; 
+}
+
+.contacts-text{
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 1.71;
+    color: #FFFFFF;
+}
+
+.contacts-tel{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1.71;
+    color: #FFFFFF;
+    opacity: 0.5;
+}
+
+.contacts-mail{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1.71; 
+    color: #FFFFFF; 
+    opacity: 0.5;
+}
+
+.tech-title{
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 1.22;
+    color: #FFFFFF;   
+}
+
+.tech-specialization{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1.71;
+    color: #FFFFFF;
+}
+
+.soft-title{
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 1.22;
+    color: #FFFFFF;
+}
+
+.soft-specialization{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1.71;
+    color: #FFFFFF; 
+}
