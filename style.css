@@ -1,124 +1,126 @@
-body{
+body {
     font-family: 'Montserrat';
-font-style: normal;
+    font-style: normal;
+    display: flex;
+    flex-direction: row-reverse;
 }
 
-.aboutme-title{
+.aboutme-title {
     font-weight: 700;
     font-size: 14px;
     line-height: 1.21;
     color: #000000;
 }
 
-.aboutme-name{
+.aboutme-name {
     font-weight: 700;
-font-size: 45px;
-line-height: 1.22;
-color: #000000;
-}
-
-.aboutme-text{
-    font-weight: 400;
-    font-size: 14px;
-    line-height: 1.71; 
-    color: #595959;  
-}
-
-.projects-title{
-    font-weight: 700;
-    font-size: 22px;
+    font-size: 45px;
     line-height: 1.22;
     color: #000000;
-    
-    
 }
 
-.projects-item{
+.aboutme-text {
     font-weight: 400;
     font-size: 14px;
     line-height: 1.71;
     color: #595959;
 }
 
-.work-title{
+.projects-title {
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 1.22;
+    color: #000000;
+
+
+}
+
+.projects-item {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1.71;
+    color: #595959;
+}
+
+.work-title {
     font-weight: 700;
     font-size: 22px;
     line-height: 1.22;
     color: #000000;
 }
 
-.work-position{
+.work-position {
     font-weight: 700;
     font-size: 16px;
-    line-height: 1.25;   
+    line-height: 1.25;
     color: #000000;
 }
 
-.work-date{
+.work-date {
     font-weight: 400;
     font-size: 12px;
     line-height: 1.25;
-    color: #A8A8A8; 
+    color: #A8A8A8;
 }
 
-.work-text{
+.work-text {
     font-weight: 400;
     font-size: 14px;
     line-height: 1.71;
     color: #595959;
 }
 
-.education-title{
+.education-title {
     font-weight: 700;
     font-size: 22px;
     line-height: 1.22;
-    color: #000000;  
+    color: #000000;
 }
 
-.education-postion{
+.education-postion {
     font-weight: 700;
     font-size: 16px;
     line-height: 1.25;
-    color: #FB6D3A;  
+    color: #FB6D3A;
 }
 
-.education-management{
+.education-management {
     font-weight: 700;
     font-size: 14px;
     line-height: 1.21;
-    color: #000000;    
+    color: #000000;
 }
 
-.education-date{
+.education-date {
     font-weight: 400;
     font-size: 12px;
     line-height: 1.25;
-    color: #A8A8A8;   
+    color: #A8A8A8;
 }
 
-.aside-section{
+.aside-section {
     background: #1E2939;
 }
 
-.aside-item{
+.aside-item {
     background: url(photo.jpg);
 }
 
-.contacts-title{
+.contacts-title {
     font-weight: 700;
     font-size: 22px;
-    line-height: 1.22;      
-    color: #FFFFFF; 
+    line-height: 1.22;
+    color: #FFFFFF;
 }
 
-.contacts-text{
+.contacts-text {
     font-weight: 700;
     font-size: 14px;
     line-height: 1.71;
     color: #FFFFFF;
 }
 
-.contacts-tel{
+.contacts-tel {
     font-weight: 400;
     font-size: 14px;
     line-height: 1.71;
@@ -126,38 +128,42 @@ color: #000000;
     opacity: 0.5;
 }
 
-.contacts-mail{
+.contacts-mail {
     font-weight: 400;
     font-size: 14px;
-    line-height: 1.71; 
-    color: #FFFFFF; 
+    line-height: 1.71;
+    color: #FFFFFF;
     opacity: 0.5;
 }
 
-.tech-title{
-    font-weight: 700;
-    font-size: 22px;
-    line-height: 1.22;
-    color: #FFFFFF;   
-}
-
-.tech-specialization{
-    font-weight: 400;
-    font-size: 14px;
-    line-height: 1.71;
-    color: #FFFFFF;
-}
-
-.soft-title{
+.tech-title {
     font-weight: 700;
     font-size: 22px;
     line-height: 1.22;
     color: #FFFFFF;
 }
 
-.soft-specialization{
+.tech-specialization {
     font-weight: 400;
     font-size: 14px;
     line-height: 1.71;
-    color: #FFFFFF; 
+    color: #FFFFFF;
+}
+
+.soft-title {
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 1.22;
+    color: #FFFFFF;
+}
+
+.soft-specialization {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1.71;
+    color: #FFFFFF;
+}
+
+.work-color {
+    color: #FB6D3A;
 }
