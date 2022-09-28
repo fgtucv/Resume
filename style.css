@@ -5,6 +5,19 @@ body {
     flex-direction: row-reverse;
 }
 
+/* main */
+
+main {
+    padding-top: 102px;
+}
+
+.aboutme-box {
+    padding-left: 88px;
+    height: 230px;
+    /* outline: red solid 2px; */
+    margin-bottom: 40px;
+}
+
 .aboutme-title {
     font-weight: 700;
     font-size: 14px;
@@ -26,13 +39,16 @@ body {
     color: #595959;
 }
 
+.project-box{
+    padding-left: 88px;
+    margin-bottom: 51px;
+}
+
 .projects-title {
     font-weight: 700;
     font-size: 22px;
     line-height: 1.22;
     color: #000000;
-
-
 }
 
 .projects-item {
@@ -40,6 +56,11 @@ body {
     font-size: 14px;
     line-height: 1.71;
     color: #595959;
+}
+
+.work-box{
+    padding-left: 88px;
+    margin-bottom: 16px;
 }
 
 .work-title {
@@ -70,6 +91,10 @@ body {
     color: #595959;
 }
 
+.education-box{
+    padding-left: 88px;
+}
+
 .education-title {
     font-weight: 700;
     font-size: 22px;
@@ -98,12 +123,24 @@ body {
     color: #A8A8A8;
 }
 
+
 .aside-section {
     background: #1E2939;
+    width: 370px;
+    height: 1319px;
+    padding-top: 40px;
 }
 
 .aside-item {
     background: url(photo.jpg);
+}
+
+.contacts-box {
+    width: 183px;
+    height: 83px;
+    margin-top: 51px;
+    margin-bottom: 47px;
+    padding-left: 40px;
 }
 
 .contacts-title {
@@ -111,6 +148,7 @@ body {
     font-size: 22px;
     line-height: 1.22;
     color: #FFFFFF;
+    margin-bottom: 8px;
 }
 
 .contacts-text {
@@ -136,6 +174,13 @@ body {
     opacity: 0.5;
 }
 
+.tech-box {
+    width: 121px;
+    height: 203px;
+    margin-bottom: 44px;
+    padding-left: 40px;
+}
+
 .tech-title {
     font-weight: 700;
     font-size: 22px;
@@ -148,6 +193,12 @@ body {
     font-size: 14px;
     line-height: 1.71;
     color: #FFFFFF;
+}
+
+.soft-box {
+    width: 113px;
+    height: 131px;
+    padding-left: 40px;
 }
 
 .soft-title {
