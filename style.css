@@ -11,6 +11,7 @@ body {
 main {
     padding-top: 102px;
     margin-left: 88px;
+
 }
 
 .aboutme-box {
@@ -103,6 +104,7 @@ main {
     font-size: 14px;
     line-height: 1.71;
     color: #595959;
+    margin-left: 15px;
 }
 
 .work-lisen {
@@ -214,6 +216,7 @@ main {
     font-size: 22px;
     line-height: 1.22;
     color: #FFFFFF;
+    margin-bottom: 8px;
 }
 
 /* .tech-list {
@@ -225,6 +228,7 @@ main {
     font-size: 14px;
     line-height: 1.71;
     color: #FFFFFF;
+    margin-left: 15px;
 }
 
 .soft-box {
@@ -239,6 +243,7 @@ main {
     font-size: 22px;
     line-height: 1.22;
     color: #FFFFFF;
+    margin-bottom: 8px;
 }
 
 .soft-specialization {
@@ -246,4 +251,5 @@ main {
     font-size: 14px;
     line-height: 1.71;
     color: #FFFFFF;
+    margin-left: 15px;
 }
